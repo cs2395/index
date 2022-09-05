@@ -13,7 +13,7 @@
           <section>  
                 <h2>  Crowd Favorites </h2>
                 <article>
-                  <h3> Here Comes The Sun </h3>
+                  <h3> Here Comes The Gun </h3>
                      <P> Little Darlin </P>
                      <p> It’s been a wrong, old lonely winter </p>       
                      <p> Little Darlin </p>
