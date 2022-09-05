@@ -1,9 +1,9 @@
 <!DOCTYPE  html>
-<html lang=“en”>
-      <head> 
-              <title>The Best Song of the Best Band Ever</title>
+<html>
+      <head>
               <meta> charset=“utf=8”>
               <meta name=“description” content=“The fan club page dedicated to the best song of the best band ever, the Cockroaches”>
+              <title>The Best Song of the Best Band Ever</title>
 </head>
 <body>
   <header> 
