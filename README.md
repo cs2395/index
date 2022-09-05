@@ -1,5 +1,5 @@
 <!DOCTYPE  html>
-<html>
+<html lang="en">
       <head>
               <meta> charset=“utf=8”>
               <meta name=“description” content=“The fan club page dedicated to the best song of the best band ever, the Cockroaches”>
